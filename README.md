@@ -1,4 +1,5 @@
-S&P 500 Price Prediction using ARIMA
+📈 S&P 500 Price Prediction using ARIMA
+
 
 This project focuses on forecasting the **S&P 500 Index closing prices** using the ARIMA (AutoRegressive Integrated Moving Average) model. The notebook walks through data preprocessing, time series analysis, model building, and forecasting, and evaluates the model's performance with visual and statistical metrics.
 
