@@ -41,4 +41,11 @@ README.md # Project overview and instructions
 1. Clone this repo:
    ```bash
    git clone https://github.com/<your-username>/SP500_ARIMA_Prediction.git
-   cd SP500_ARIMA_Prediction
+   cd SP500_Price_Prediction
+
+## 📌 future features to be added to the model
+1. Evaluation of ARIMA model
+2. SARIMA/SARIMAX Forecast
+3. META Prophet Price Prediction
+4. Backtesting and cross-validation
+5. Trading Bot
