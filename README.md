@@ -3,7 +3,7 @@ S&P 500 Price Prediction using ARIMA
 This project focuses on forecasting the **S&P 500 Index closing prices** using the ARIMA (AutoRegressive Integrated Moving Average) model. The notebook walks through data preprocessing, time series analysis, model building, and forecasting, and evaluates the model's performance with visual and statistical metrics.
 
 ## 📂 Project Structure
-SP500_Price_Prediction.ipynb # Main Jupyter notebook with code and analysis
+SP500_Price_Prediction.ipynb # Main Google Colab notebook with code and analysis
 /plots # Saved figures and visualizations (optional)
 /data # Data sources (CSV or external links)
 README.md # Project overview and instructions
